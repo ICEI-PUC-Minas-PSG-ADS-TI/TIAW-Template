@@ -1,61 +1,35 @@
 # Introdução
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
+A digitalização de serviços e atividades cotidianas tornou o domínio de tecnologias digitais cada vez mais importante para a participação na sociedade. Entretanto, parte da população ainda apresenta dificuldades no uso de computadores, smartphones e serviços digitais, especialmente pessoas idosas ou com pouca familiaridade com tecnologia.
+
+Essa dificuldade pode gerar dependência de terceiros, insegurança, perda de autonomia e dificuldade de acesso a serviços e informações. Destarte, o problema abordado neste trabalho está relacionado à falta de conhecimentos e orientação para que pessoas com baixo domínio tecnológico possam utilizar recursos digitais básicos de forma autônoma e segura.
 
 ## Objetivos
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+# Objetivo Geral
+
+Desenvolver um software de letramento digital que auxilie pessoas com baixo domínio de tecnologias básicas a desenvolver maior autonomia em sua utilização.
+
+# Objetivos Específicos
+
+- Identificar as principais dificuldades enfrentadas pelo público no uso de tecnologias digitais.
+- Investigar formas de apresentar conteúdos que facilitem a compreensão e o aprendizado.
+- Desenvolver conteúdos educativos voltados a situações práticas do cotidiano.
+- Aplicar princípios de acessibilidade e usabilidade adequados ao público-alvo.
+- Contribuir para maior autonomia e segurança no uso de recursos digitais.
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A escolha do tema se deve à crescente presença das tecnologias digitais no cotidiano e à necessidade de garantir que essa transformação seja acompanhada por iniciativas de inclusão. O baixo domínio tecnológico pode dificultar o acesso a serviços, informações, comunicação e outras atividades importantes.
+
+Nesse contexto, o letramento digital pode contribuir para reduzir essas barreiras, proporcionando conhecimentos que permitam aos usuários utilizar recursos tecnológicos de forma mais independente. O projeto também está relacionado à ODS 4 – Educação de Qualidade e à ODS 10 – Redução das Desigualdades, por utilizar a educação como instrumento de inclusão digital e social.
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+O público-alvo é composto principalmente por pessoas adultas e idosas que possuem acesso a dispositivos digitais, mas apresentam baixo nível de familiaridade com suas funcionalidades. Porém, não se limita a ele, podendo abrangir qualquer pessoa com interesse em aprender sobre as funcionalidades de um determinado aplicativo.
+
+São consideradas pessoas que podem ter dificuldades para compreender interfaces, executar tarefas digitais e utilizar recursos básicos de smartphones, computadores e outros dispositivos. O público pode apresentar diferentes níveis de escolaridade e experiência tecnológica, tornando importante uma abordagem simples, clara e prática.
+
+Familiares, cuidadores e outras pessoas próximas também podem atuar como apoio durante o processo de aprendizagem, indicando ou acompanhando o uso dos conteúdos.
