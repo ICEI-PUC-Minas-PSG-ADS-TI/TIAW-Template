@@ -10,7 +10,7 @@
 
 ## User Flow
 
-![Exemplo de UserFlow](images/userflow.jpg)
+![User Flow Letramento Digital](images/user%20flow.jpeg)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
