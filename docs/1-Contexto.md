@@ -8,11 +8,11 @@ Essa dificuldade pode gerar dependência de terceiros, insegurança, perda de au
 
 ## Objetivos
 
-# Objetivo Geral
+## Objetivo Geral
 
 Desenvolver um software de letramento digital que auxilie pessoas com baixo domínio de tecnologias básicas a desenvolver maior autonomia em sua utilização.
 
-# Objetivos Específicos
+## Objetivos Específicos
 
 - Identificar as principais dificuldades enfrentadas pelo público no uso de tecnologias digitais.
 - Investigar formas de apresentar conteúdos que facilitem a compreensão e o aprendizado.
