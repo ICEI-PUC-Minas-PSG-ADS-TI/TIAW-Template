@@ -33,14 +33,14 @@
 
 ## Sprint 1
 
-Atualizado em: 27/09/2026
+Atualizado em: 29/09/2026
 
 | Responsável | Tarefa/Requisito     | Iniciado em |   Prazo    | Status | Terminado em |
 | :---------- | :------------------- | :---------: | :--------: | :----: | :----------: |
 | Marcelo     | Introdução           | 22/09/2026  | 29/09/2026 |   ✔️   |  22/09/2026  |
 | Oliver      | Contexto             | 22/09/2026  | 29/09/2026 |   ✔️   |  27/09/2026  |
 | Samuel      | Wireframes e Mockups | 22/09/2026  | 29/09/2026 |   ✔️   |  27/09/2026  |
-| Thiago      | Planejamento         | 22/09/2026  | 29/09/2026 |   ✔️   |  27/09/2026  |
+| Thiago      | Planejamento         | 22/09/2026  | 29/09/2026 |   ✔️   |  29/09/2026  |
 | Matheus     | User Flow            | 22/09/2026  | 29/09/2026 |   ✔️   |  27/09/2026  |
 
 ## Sprint 2
@@ -78,10 +78,11 @@ Legenda:
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de diagramação.
-- Frameworks
-- Outras ferramentas externas
+- Visual Studio Code: Editor de código utilizado para desenvolvimento, edição e organização dos arquivos do projeto, oferecendo recursos que facilitam a escrita e manutenção do código.
+- Canva: Ferramenta utilizada para a criação e edição de elementos visuais, contribuindo para o planejamento da identidade visual e da apresentação do projeto.
+- Figma: Utilizado para criação do protótipo das interfaces, permitindo visualizar e organizar previamente a estrutura das telas e a disposição dos elementos.
+- GitHub: Plataforma utilizada para hospedagem e versionamento do código-fonte, facilitando o compartilhamento dos arquivos e o trabalho colaborativo entre os integrantes da equipe.
+- Jira: Ferramenta utilizada para organização e acompanhamento das atividades do projeto, permitindo distribuir tarefas, acompanhar seu andamento e manter uma visão geral do desenvolvimento.
 
 ## Links Úteis
 
